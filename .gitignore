@@ -1,0 +1,6 @@
+.vscode/
+.venv/
+audios/
+build/
+dist/
+*.spec
